@@ -2,6 +2,23 @@
     "schemaVersion": 1,
     "hotfixesFormat": null,
     "versions": [
-   
+        {
+            "id": "3.0.0",
+            "releasedAt": 1722934727257,
+            "promotions": {
+                "downloads": {
+                    "generic": "https://drive.google.com/drive/folders/1BHJsofuA7OAktfM1YVVxeeEgdTYJwh4q?usp=sharing"
+                }
+            }
+        },
+        {
+            "id": "3.0.1",
+            "releasedAt": 1722934727257,
+            "promotions": {
+                "downloads": {
+                    "generic": "https://drive.google.com/drive/folders/1BHJsofuA7OAktfM1YVVxeeEgdTYJwh4q?usp=sharing"
+                }
+            }
+        }
     ]
   }
